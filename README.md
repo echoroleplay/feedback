@@ -30,8 +30,7 @@ Fill out the form with as much detail as possible. The more information you prov
 6. 📩 **Submit:** 📩
 Once you have filled out the form, click on 'Submit new issue'. 
 
-After you've submitted an issue, our development team will review it and take appropriate action. 
-👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻
+After you've submitted an issue, our development team will review it and take appropriate action 👩‍💻👨‍💻
 
 📍 You can track the progress of your issue through the 'Issues' tab. 
 
