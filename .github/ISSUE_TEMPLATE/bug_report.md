@@ -21,5 +21,3 @@ assignees: ''
 **Actual Behavior:** Describe what actually happened instead.
 
 **Screenshot(s)/Video(s):** If possible, add screenshots or videos to help explain your problem. 
-
-_Thank you for your contribution to our server. Your report is greatly appreciated and will help us to enhance the overall gaming experience._
