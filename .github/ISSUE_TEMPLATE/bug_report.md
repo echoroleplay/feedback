@@ -1,17 +1,11 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: 'Provide a brief and clear title describing the bug'
 labels: bug
 assignees: ''
 
 ---
-
-# Bug Report
-
-Please use the following format to create a new bug report. The more details you provide, the easier it will be for us to understand the problem and work on a fix.
-
-**Title:** Provide a brief and clear title describing the bug. 
 
 ## Bug Details
 
@@ -37,4 +31,4 @@ Please use the following format to create a new bug report. The more details you
 
 **Additional Context:** Add any other context or information you think could be relevant to the problem.
 
-Thank you for your contribution to our server. Your report is greatly appreciated and will help us to enhance the overall gaming experience.
+_Thank you for your contribution to our server. Your report is greatly appreciated and will help us to enhance the overall gaming experience._
