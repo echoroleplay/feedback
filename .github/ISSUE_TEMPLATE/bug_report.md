@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: 'Replace me with a brief and clear title describing the bug'
+about: Create a bug report to help EchoRP improve
+title: Replace me with a brief and clear title describing the bug
 labels: bug
 assignees: ''
 
@@ -18,4 +18,4 @@ assignees: ''
 
 **Actual Behavior:** Describe what actually happened instead.
 
-**Screenshot(s)/Video(s):** If possible, add screenshots or videos to help explain your problem. 
+**Screenshot(s)/Video(s):** If possible, add screenshots or videos to help explain your problem.
