@@ -4,7 +4,7 @@
 
 ## 📖 Description 📖
 
-This is a comprehensive issue-tracking repository for our FiveM Roleplay server. It is designed to efficiently manage, organize, and monitor community feedback, including bugs 🐛 and suggestions, that users may encounter while playing on the server. It provides a transparent, collaborative environment for users and developers to work together on improving the Echo Roleplay gaming experience. ✨
+This is a comprehensive feedback-tracking repository for our FiveM Roleplay server. It is designed to efficiently manage, organize, and monitor community feedback, including bugs 🐛 and suggestions, that users may encounter while playing on the server. It provides a transparent, collaborative environment for users and developers to work together on improving the Echo Roleplay gaming experience. ✨
 
 Whether it's a bug 🐛 that you've spotted, an idea 💡 for an exciting new feature, or suggestions on how to enhance existing game elements 💭, we want to hear from you. With this open-source platform, every user has the power to contribute to the development of the server, making our FiveM RP server even better!
 
